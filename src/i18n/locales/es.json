@@ -1,0 +1,147 @@
+{
+  "header": {
+    "home": "Inicio",
+    "profile": "Mi Perfil",
+    "login": "Iniciar Sesión",
+    "logout": "Cerrar sesión"
+  },
+  "theme": {
+    "light": "Claro",
+    "dark": "Oscuro"
+  },
+  "language": {
+    "es": "Español",
+    "en": "Inglés"
+  },
+  "home": {
+    "welcome": "Bienvenido a ClicKey",
+    "description": "Esta es una aplicación simple de Vue.js.",
+    "hero": {
+      "title": "Domina la mecanografía con velocidad y precisión",
+      "subtitle": "Mejora tus habilidades de escritura con lecciones personalizadas, desafíos diarios y retroalimentación en tiempo real.",
+      "cta": "Empezar a Escribir",
+      "learnMore": "Saber Más",
+      "typingExample": "El veloz murciélago hindú comía feliz cardillo y kiwi..."
+    },
+    "features": {
+      "title": "¿Por qué elegir ClicKey?",
+      "feature1": {
+        "title": "Aprendizaje Progresivo",
+        "description": "Comienza con lo básico y avanza a través de niveles cada vez más desafiantes a tu propio ritmo."
+      },
+      "feature2": {
+        "title": "Desafíos Diarios",
+        "description": "Mantén tus habilidades afiladas con nuevos ejercicios diarios y compite con otros mecanógrafos de todo el mundo."
+      },
+      "feature3": {
+        "title": "Análisis Detallados",
+        "description": "Sigue tu progreso con métricas completas sobre velocidad, precisión y áreas problemáticas."
+      }
+    },
+    "howItWorks": {
+      "title": "Cómo Funciona",
+      "step1": {
+        "title": "Crea una Cuenta",
+        "description": "Regístrate gratis y crea tu perfil personalizado de mecanografía."
+      },
+      "step2": {
+        "title": "Realiza un Test",
+        "description": "Completa una evaluación inicial para determinar tu nivel actual de mecanografía."
+      },
+      "step3": {
+        "title": "Practica Diariamente",
+        "description": "Sigue tu plan de práctica personalizado y completa desafíos diarios."
+      },
+      "step4": {
+        "title": "Seguimiento del Progreso",
+        "description": "Monitoriza tu mejora a lo largo del tiempo y observa tu clasificación entre otros usuarios."
+      }
+    },
+    "stats": {
+      "stat1": {
+        "value": "10M+",
+        "label": "Sesiones de Escritura"
+      },
+      "stat2": {
+        "value": "500K+",
+        "label": "Usuarios Activos"
+      },
+      "stat3": {
+        "value": "40%",
+        "label": "Mejora Media de Velocidad"
+      }
+    },
+    "cta": {
+      "title": "¿Listo para Escribir Más Rápido?",
+      "subtitle": "Únete a miles de usuarios que han mejorado sus habilidades de mecanografía con ClicKey.",
+      "button": "Comenzar Gratis"
+    }
+  },
+  "footer": {
+    "copyright": "© 2023 ClicKey. Todos los derechos reservados.",
+    "links": {
+      "about": "Acerca de",
+      "contact": "Contacto",
+      "privacy": "Política de Privacidad",
+      "terms": "Términos de Servicio"
+    },
+    "tagline": "Conviértete en un maestro de la escritura, una tecla a la vez."
+  },
+  "login": {
+    "loginTitle": "Iniciar Sesión",
+    "registerTitle": "Registrarse",
+    "resetTitle": "Restablecer Contraseña",
+    "email": "Email",
+    "password": "Contraseña",
+    "loginButton": "Iniciar Sesión",
+    "registerButton": "Registrarse",
+    "resetButton": "Enviar Enlace",
+    "loading": "Cargando...",
+    "orContinue": "O continuar con",
+    "noAccount": "¿No tienes cuenta? Regístrate",
+    "hasAccount": "¿Ya tienes cuenta? Inicia sesión",
+    "forgotPassword": "¿Olvidaste tu contraseña?",
+    "backToLogin": "Volver a iniciar sesión",
+    "rememberMe": "Recordarme",
+    "resetInstructions": "Introduce tu dirección de email y te enviaremos un enlace para restablecer tu contraseña.",
+    "resetSuccess": "¡Enlace enviado! Revisa tu correo electrónico.",
+    "emailPasswordRequired": "Por favor introduce email y contraseña",
+    "validation": {
+      "emailRequired": "El email es obligatorio",
+      "emailValid": "Por favor introduce un email válido",
+      "passwordRequired": "La contraseña es obligatoria",
+      "passwordLength": "La contraseña debe tener al menos 8 caracteres"
+    }
+  },
+  "profile": {
+    "title": "Mi Perfil",
+    "loading": "Cargando...",
+    "userInfo": "Información de usuario",
+    "details": "Detalles personales y configuración",
+    "name": "Nombre",
+    "email": "Email",
+    "memberSince": "Miembro desde",
+    "notAuthenticated": "No estás autenticado",
+    "errorLoading": "Error al cargar perfil:"
+  },
+  "practice": {
+    "demoTitle": "¡Pruébalo tú mismo!",
+    "tryIt": "Práctica de Mecanografía",
+    "instructions": "Elige tu nivel de dificultad y haz clic en Comenzar para iniciar la prueba de mecanografía.",
+    "results": "Tus Resultados",
+    "start": "Comenzar Prueba",
+    "tryAgain": "Intentar de Nuevo",
+    "done": "Finalizar",
+    "typingPlaceholder": "Comienza a escribir aquí...",
+    "speed": "Velocidad",
+    "accuracy": "Precisión",
+    "time": "Tiempo",
+    "errors": "Errores",
+    "hideTypingTest": "Ocultar Prueba de Mecanografía",
+    "levels": {
+      "beginner": "Principiante",
+      "intermediate": "Intermedio",
+      "advanced": "Avanzado"
+    }
+  }
+}

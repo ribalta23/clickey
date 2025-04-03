@@ -1,0 +1,147 @@
+{
+  "header": {
+    "home": "Home",
+    "profile": "My Profile",
+    "login": "Login",
+    "logout": "Sign out"
+  },
+  "theme": {
+    "light": "Light",
+    "dark": "Dark"
+  },
+  "language": {
+    "es": "Spanish",
+    "en": "English"
+  },
+  "home": {
+    "welcome": "Welcome to ClicKey",
+    "description": "This is a simple Vue.js application.",
+    "hero": {
+      "title": "Master Typing with Speed and Precision",
+      "subtitle": "Improve your typing skills with personalized lessons, daily challenges, and real-time feedback.",
+      "cta": "Start Typing",
+      "learnMore": "Learn More",
+      "typingExample": "The quick brown fox jumps over the lazy dog..."
+    },
+    "features": {
+      "title": "Why Choose ClicKey",
+      "feature1": {
+        "title": "Progressive Learning",
+        "description": "Start with the basics and advance through increasingly challenging levels at your own pace."
+      },
+      "feature2": {
+        "title": "Daily Challenges",
+        "description": "Keep your skills sharp with new daily exercises and compete with other typists worldwide."
+      },
+      "feature3": {
+        "title": "Detailed Analytics",
+        "description": "Track your progress with comprehensive metrics on speed, accuracy, and problem areas."
+      }
+    },
+    "howItWorks": {
+      "title": "How It Works",
+      "step1": {
+        "title": "Create an Account",
+        "description": "Sign up for free and create your personalized typing profile."
+      },
+      "step2": {
+        "title": "Take a Test",
+        "description": "Complete an initial assessment to determine your current typing level."
+      },
+      "step3": {
+        "title": "Practice Daily",
+        "description": "Follow your customized practice plan and complete daily challenges."
+      },
+      "step4": {
+        "title": "Track Progress",
+        "description": "Monitor your improvement over time and see your ranking among other users."
+      }
+    },
+    "stats": {
+      "stat1": {
+        "value": "10M+",
+        "label": "Typing Sessions"
+      },
+      "stat2": {
+        "value": "500K+",
+        "label": "Active Users"
+      },
+      "stat3": {
+        "value": "40%",
+        "label": "Average Speed Improvement"
+      }
+    },
+    "cta": {
+      "title": "Ready to Type Faster?",
+      "subtitle": "Join thousands of users who have improved their typing skills with ClicKey.",
+      "button": "Get Started Free"
+    }
+  },
+  "footer": {
+    "copyright": "© 2023 ClicKey. All rights reserved.",
+    "links": {
+      "about": "About",
+      "contact": "Contact",
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service"
+    },
+    "tagline": "Become a typing master, one key at a time."
+  },
+  "login": {
+    "loginTitle": "Login",
+    "registerTitle": "Register",
+    "resetTitle": "Password Reset",
+    "email": "Email",
+    "password": "Password",
+    "loginButton": "Login",
+    "registerButton": "Register",
+    "resetButton": "Send Reset Link",
+    "loading": "Loading...",
+    "orContinue": "Or continue with",
+    "noAccount": "Don't have an account? Register",
+    "hasAccount": "Already have an account? Login",
+    "forgotPassword": "Forgot password?",
+    "backToLogin": "Back to login",
+    "rememberMe": "Remember me",
+    "resetInstructions": "Enter your email address, and we'll send you a link to reset your password.",
+    "resetSuccess": "Password reset link sent! Check your email.",
+    "emailPasswordRequired": "Please enter both email and password",
+    "validation": {
+      "emailRequired": "Email is required",
+      "emailValid": "Please enter a valid email address",
+      "passwordRequired": "Password is required",
+      "passwordLength": "Password must be at least 8 characters"
+    }
+  },
+  "profile": {
+    "title": "My Profile",
+    "loading": "Loading...",
+    "userInfo": "User Information",
+    "details": "Personal details and settings",
+    "name": "Name",
+    "email": "Email",
+    "memberSince": "Member since",
+    "notAuthenticated": "You are not authenticated",
+    "errorLoading": "Error loading profile:"
+  },
+  "practice": {
+    "demoTitle": "Try it yourself!",
+    "tryIt": "Typing Practice",
+    "instructions": "Choose your difficulty level and click Start to begin the typing test.",
+    "results": "Your Results",
+    "start": "Start Typing Test",
+    "tryAgain": "Try Again",
+    "done": "Done",
+    "typingPlaceholder": "Start typing here...",
+    "speed": "Speed",
+    "accuracy": "Accuracy",
+    "time": "Time",
+    "errors": "Errors",
+    "hideTypingTest": "Hide Typing Test",
+    "levels": {
+      "beginner": "Beginner",
+      "intermediate": "Intermediate",
+      "advanced": "Advanced"
+    }
+  }
+}
